@@ -1,7 +1,8 @@
-Project Name: Zomato Analytics Dashboard
-Prepared By: Akansha Negi
+# Zomato Analytics Dashboard
+
 1. Introduction
-The Zomato Analytics Dashboard aims to provide insights into food delivery performance, restaurant reviews, and customer preferences. It will help stakeholders identify trends, improve delivery operations, and enhance customer satisfaction.
+- The Zomato Analytics Dashboard aims to provide insights into food delivery performance, restaurant reviews, and customer preferences. It will help stakeholders identify trends, improve delivery operations, and 
+  enhance customer satisfaction.
 2. Objectives
 - Track order and delivery performance.
 - Monitor restaurant reviews and ratings.
