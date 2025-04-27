@@ -32,6 +32,5 @@
 - Restaurant Dataset: Includes Restaurant Name, Location, Ratings, Reviews, and Cuisine.
 - Reviews Dataset: Includes Review Text, Ratings, Review Date, and Customer Feedback.
 
-Dashboard
-Screenshot.JPG
+
 
